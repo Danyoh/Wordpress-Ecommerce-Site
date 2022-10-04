@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>party &#8211; GoonSquad</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Online Goon and Products Store</description>
+	<lastBuildDate>Sun, 02 Oct 2022 19:25:39 +0000</lastBuildDate>
+	<language>en-CA</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+
+<image>
+	<url>./../../../wp-content/uploads/2022/09/cropped-512px-Geek_Squad_logo_new.svg-32x32.png</url>
+	<title>party &#8211; GoonSquad</title>
+	<link>./../../../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Goon Group</title>
+		<link>./../../../product/rattle-snake-tail/index.html</link>
+					<comments>./../../../product/rattle-snake-tail/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[nguy0890]]></dc:creator>
+		<pubDate>Wed, 23 Jan 2019 12:23:25 +0000</pubDate>
+				<guid isPermaLink="false">./../../../product/rattle-snake-tail/index.html</guid>
+
+					<description><![CDATA[Hire Goon Group to make your party look full and inviting]]></description>
+										<content:encoded><![CDATA[<p>You can rent out Goon Group to fill up your party to make it seem like a lot of people showed up to your party. It will look more inviting and allow your friends to see how fun you are and how many friends you have. From parties to adventures, Goon Group is here to help. Party starts at $25/person per hour.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../product/rattle-snake-tail/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

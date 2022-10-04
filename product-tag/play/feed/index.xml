@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>play &#8211; GoonSquad</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Online Goon and Products Store</description>
+	<lastBuildDate>Sun, 02 Oct 2022 19:16:39 +0000</lastBuildDate>
+	<language>en-CA</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+
+<image>
+	<url>./../../../wp-content/uploads/2022/09/cropped-512px-Geek_Squad_logo_new.svg-32x32.png</url>
+	<title>play &#8211; GoonSquad</title>
+	<link>./../../../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Gamer Goon</title>
+		<link>./../../../product/piorro-quisquam/index.html</link>
+					<comments>./../../../product/piorro-quisquam/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[nguy0890]]></dc:creator>
+		<pubDate>Wed, 23 Jan 2019 13:18:02 +0000</pubDate>
+				<guid isPermaLink="false">./../../../product/piorro-quisquam/index.html</guid>
+
+					<description><![CDATA[Gamer Goon willy be your friend to play games with you any time.]]></description>
+										<content:encoded><![CDATA[<p>Life keeps people busy. Every once in a while, you have time to play games but your friends may not have the same availability. Sometimes it gets lonely playing by yourself Hire a Gamer Goon to play with you. Select Goons with your skill level and schedule a gaming session.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../product/piorro-quisquam/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>fan &#8211; GoonSquad</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Online Goon and Products Store</description>
+	<lastBuildDate>Sun, 02 Oct 2022 19:33:37 +0000</lastBuildDate>
+	<language>en-CA</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+
+<image>
+	<url>./../../../wp-content/uploads/2022/09/cropped-512px-Geek_Squad_logo_new.svg-32x32.png</url>
+	<title>fan &#8211; GoonSquad</title>
+	<link>./../../../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Fake Fan Interaction</title>
+		<link>./../../../product/ball-cactus/index.html</link>
+					<comments>./../../../product/ball-cactus/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[nguy0890]]></dc:creator>
+		<pubDate>Wed, 23 Jan 2019 11:22:40 +0000</pubDate>
+				<guid isPermaLink="false">./../../../product/ball-cactus/index.html</guid>
+
+					<description><![CDATA[Hire a Goon to pretend to be a fan of yours]]></description>
+										<content:encoded><![CDATA[<p>The fans will show up to a location of your choosing and ask you for an autograph and/or photo. Depending on the situation, the client can request specific things for the fan to say during the interaction. Each package contains 3 Goons of our choice &#8211; for additional goons, please inquire by giving us a call.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../product/ball-cactus/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
